@@ -5,6 +5,8 @@ valentino_collection_name = " VALENTINO HAUTE COUTURE SS23"
 valentino_trends = {
   'sheer': 0,
   'plaid':0, 
+  'ruffles':0,
+  'stockings':0,
   'stripes':0, 
   'ankle_strap':0, 
   'open_toe':0, 
@@ -16,11 +18,12 @@ valentino_trends = {
   'button_down':0, 
   'hot_shorts':0, 
   'leather':0, 
-  'maxi':0,
+  'maxi_dress':0,
+  'maxi_skirt':0,
+  'jeans':0,
   'crossbody_bag':0, 
   'clutch':0, 
-  'cc_logo':0, 
-  'chanel_logo':0, 
+  'valentino_logo':0, 
   'red':0, 
   'purple':0,
   'black':0, 
@@ -34,3 +37,8 @@ valentino_trends = {
   'shimmer':0, 
   'grey':0 }      
 
+## DEFINE THE OUTFITS
+valentino_looks = [
+['purple','sheer','maxi_dress'], # LOOK 45
+['purple', 'black', 'stockings'],
+]
