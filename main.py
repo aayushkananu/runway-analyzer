@@ -35,9 +35,9 @@ valentino_trends = {
   'parachute pants':0,
   'cape':0,
   'goggles':0,
-  'button-up':0,
+  'button_up':0,
   'fishnet':0,
-  'long coat':0,
+  'long_coat':0,
 
   'valentino_logo':0, 
 
