@@ -99,7 +99,7 @@ valentino_looks = [
 ['black','maxi','bow','white'],
 ['long coat','fur','button_up','blue'],
 ['blazer','tie','button_up','shimmer','black','white'],
-['striped','blazer,'bow','pink', 'ballet_skirt','black','white'],
+['striped','blazer','bow','pink', 'ballet_skirt','black','white'],
 ['blazer','ruffle','shimmer','fishnet','stockings','gloves','black','white'],
 ['black','gloves'],
 ['white','net','ballet_flats'],
@@ -107,7 +107,7 @@ valentino_looks = [
 ['polka_dots', 'white','maxi','close_toed','ankle_strap','brown'],
 ['blazer','boots','tie','button_up','yellow','black','white'],
 ['tie','button_up','yellow', 'white','black','polka_dots'],
-['polka dots','long_coat,'bow','tie','button_up','ballet_flats','black,'blue','off_white'],
+['polka dots','long_coat','bow','tie','button_up','ballet_flats','black,'blue','off_white'],
 ['bow','green', 'maxi','platform_heels'],
 ['ruffle','maxi','platform_heels','green','black'], #look44
 ['purple','sheer','maxi_dress', 'bow'], # LOOK 45
