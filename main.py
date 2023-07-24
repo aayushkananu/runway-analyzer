@@ -156,3 +156,46 @@ valentino_looks = [
 ['ruffles'],
 ['ruffles','feather','polka_dots','shimmer','bow']
 ]
+
+collection_name = valentino_collection_name
+looks = valentino_looks
+total = len(looks)
+trends = valentino_trends
+
+## PRINT INFO:
+print("ANALYZING TRENDS FROM", collection_name)
+
+## TREND DATA (count)
+for trend, var in trends.items():
+    count = 0
+    for look in looks:
+        if str(trend) in look:
+            count += 1
+    trends.update({trend:count})
+
+## GET PERCENTAGES
+trend_percentages = {}
+for trend, var in trends.items():
+    percentage = var / total * 100
+    trend_percentages.update({trend: percentage})
+    print("PERCENTAGE OF %s : %s" % (trend, percentage))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
