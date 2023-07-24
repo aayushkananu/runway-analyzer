@@ -65,5 +65,7 @@ valentino_looks = [
 ['yellow', 'purple', 'black','bow', 'blazer'],
 ['ruffles', 'yellow', 'pink','ankle_straps'],
 ['bow', 'gloves','purple', 'pink', 'red', 'maxi_dress'],
-
+['ruffles', 'purple', 'red', 'stiletto', 'gloves', 'leather'],
+['red', 'pink', 'leahter', 'blazer'],
+['red', 'leather', 'gloves'] #LOOK  55
 ]
