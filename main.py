@@ -162,10 +162,12 @@ looks = valentino_looks
 total = len(looks)
 trends = valentino_trends
 
-## PRINT INFO:
+## PRINT INFO
+
 print("ANALYZING TRENDS FROM", collection_name)
 
 ## TREND DATA (count)
+
 for trend, var in trends.items():
     count = 0
     for look in looks:
@@ -174,6 +176,7 @@ for trend, var in trends.items():
     trends.update({trend:count})
 
 ## GET PERCENTAGES
+
 trend_percentages = {}
 for trend, var in trends.items():
     percentage = var / total * 100
